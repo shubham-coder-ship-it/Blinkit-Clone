@@ -1,4 +1,6 @@
 Blinkit Landing Page Clone
+![Uploading Screenshot (493).png…]()
+
 Project Overview
 This project is a responsive frontend clone of the Blinkit homepage, created using HTML5 and CSS3. It recreates the main visual sections of the reference design, including the navigation bar, promotional banner, promotional cards, product categories, and footer.
 Features
